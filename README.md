@@ -8,14 +8,22 @@
 5.提供生活建议，包括舒适的指数，穿衣指数，感冒指数，运动指数，旅游指数等。<br>
 6.提供实时风力数据，包括风力，风向，风速，角度等指标。<br>
 7.提供太阳实时变化数据，包括日出日落时间。<br>
+<img src="https://github.com/wang1995jiang/hefengweather/blob/master/Screenshot_20180623-180525.png" width="300" height="500" alt="展示" />
 ### 下拉刷新功能
-经典的刷新动画布局。滑动到顶部后继续下滑开始刷新数据。
+经典的刷新动画布局。滑动到顶部后继续下滑开始刷新数据。<br>
+<img src="https://github.com/wang1995jiang/hefengweather/blob/master/Screenshot_20180623-180605.png" width="300" height="500" alt="展示" />
+<img src="https://github.com/wang1995jiang/hefengweather/blob/master/Screenshot_20180623-180614.png" width="300" height="500" alt="展示" />
+<img src="https://github.com/wang1995jiang/hefengweather/blob/master/Screenshot_20180623-180626.png" width="300" height="500" alt="展示" />
+<img src="https://github.com/wang1995jiang/hefengweather/blob/master/Screenshot_20180623-180630.png" width="300" height="500" alt="展示" />
 ### 背景图片
 请求加载的必应每日一图，每天都会是不同的背景，给你好看。
 ## 视觉特效开发
 ### 标题栏背景
-随着向下滑动标题栏背景逐渐透明至消失，随着向上滑动标题栏背景逐渐显现至正常。
+随着向下滑动标题栏背景逐渐透明至消失，随着向上滑动标题栏背景逐渐显现至正常。<br>
+<img src="https://github.com/wang1995jiang/hefengweather/blob/master/Screenshot_20180623-180525.png" width="300" height="500" alt="展示" />
+<img src="https://github.com/wang1995jiang/hefengweather/blob/master/Screenshot_20180623-180534.png" width="300" height="500" alt="展示" />
 ### 空气污染动画
 当滑动到空气污染的视图时，左侧空气污染程度颜色指示柱开始颜色逐渐加深并且递增
+
 ### 太阳空中轨迹动画
-滑动到太阳视图，太阳图标会从左侧的“地平线”一定的速度升起，升到当前时刻对应的太阳高度停止，模拟太阳的空中轨迹运动。
+滑动到太阳视图，太阳图标会从左侧的“地平线”一定的速度升起，升到当前时刻对应的太阳高度停止，模拟太阳的空中轨迹运动。<br>
