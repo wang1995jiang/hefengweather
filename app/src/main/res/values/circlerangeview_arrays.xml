@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="circlerangeview_colors">
+        <item>#008C8C</item>
+        <item>#4DA6FF</item>
+        <item>#4DC433</item>
+        <item>#FF944D</item>
+        <item>#FF4D4D</item>
+        <item>#C30C0C</item>
+    </string-array>
+
+    <string-array name="circlerangeview_values">
+        <item>BP_PURE_PERIOD_HBP</item>
+        <item>BP_LOW</item>
+        <item>BP_NORMAL</item>
+        <item>BP_NORMAL_HIGH</item>
+        <item>BP_MILD_HYPERTENSION</item>
+        <item>BP_MIDDLE_HYPERTENSION</item>
+    </string-array>
+
+    <string-array name="circlerangeview_txts">
+        <item>优</item>
+        <item>良</item>
+        <item>轻度污染</item>
+        <item>中度污染</item>
+        <item>重度污染</item>
+        <item>严重污染</item>
+    </string-array>
+
+</resources>
