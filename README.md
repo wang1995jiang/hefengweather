@@ -31,5 +31,7 @@
 目前大学生开发者一枚，开发的不好请勿见怪<br>
 欢迎同道中人一同探讨技术，邮箱：1962751382@qq.com<br>
 ## 相关连接
-[已经应用的App](https://github.com/wang1995jiang/babysnote)
+[已经应用的App](https://github.com/wang1995jiang/babysnote)<br>
+## 注意事项
+使用该项目请联系作者，谢谢合作
 
